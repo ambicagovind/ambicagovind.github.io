@@ -21,7 +21,7 @@ repository               : "ambicagovind/ambicagovind.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof.jpg"
   name             : "Ambica"
   pronouns         : "she/her"
   bio              : "Senior Undergraduate in Engineering Physics"
