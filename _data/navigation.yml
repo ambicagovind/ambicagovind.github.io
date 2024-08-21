@@ -6,11 +6,11 @@
 
 main:
   - title: "Research Interests"
-    url: /cv/
+    url: /research/
 
   - title: "CV"
-    url: /research/    
+    url: /cv/    
 
   - title: "Personal"
-    url: /teaching/    
+    url: /personal/    
         
