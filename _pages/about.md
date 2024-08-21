@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a fourth-year undergraduate pursuing a Bachelors in Engineering Physics at the [Indian Institute of Technology Hyderabad](https://physics.iith.ac.in/). With research interests in astrophysics and cosmology, I have explored many aspects such as stellar evolution, radioastronomy, galaxy formation and evolution, gravitational waves, transients, galaxy clusters and cosmology. For the past three years I have been working on clusters and cosmology under [Prof. Shantanu Desai, IIT Hyderabad](https://iith.ac.in/phy/shantanud/). My Bachelors Projects on cosmological simulations and dark matter distribution were supervised by [Dr. Gauri Sharma, University of Western Cape](https://ingauris.github.io/gsharma/) and [Prof. Paolo Salucci, SISSA Italy](https://www.sissa.it/ap/members.php?ID=134). This summer I interned under [Prof. Daniel Grün](https://www.imprs-astro.mpg.de/content/prof-dr-daniel-grun-0.html), Chair of the Astrophysics, Cosmology and Artificial Intelligence(ACAI) Research Group at [Ludwig-Maximilians-Universität München](https://www.physik.lmu.de/en/), on the optical follow-up of gravitational waves. 
 
 A data-driven personal website
 ======
