@@ -8,14 +8,14 @@ main:
   - title: "Research Interests"
     url: /research/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "CV"
     url: /cv/    
 
   - title: "Courses"
     url: /courses/ 
-
-  - title: "Resources"
-    url: /resources/
 
   - title: "Personal"
     url: /personal/ 
