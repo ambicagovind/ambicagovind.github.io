@@ -1,12 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://ambicagovind.github.io/files/cv.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
+Find my CV here! [<i class="fas fa-file-pdf"></i>](https://ambicagovind.github.io/files/cv.pdf)
 
 
