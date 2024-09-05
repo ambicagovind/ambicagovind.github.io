@@ -17,9 +17,6 @@ main:
   - title: "Courses"
     url: /courses/ 
 
-  - title: "Personal"
-    url: /personal/ 
-
   - title: "Contact"
     url: /contact/ 
         
