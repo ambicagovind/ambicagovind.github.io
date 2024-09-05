@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://[your GitHub username].github.io/files/cv.pdf
+permalink: https://ambicagovind.github.io/files/cv.pdf
 author_profile: true
 redirect_from:
   - /resume
