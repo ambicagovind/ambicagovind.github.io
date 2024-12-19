@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## I watch that pretty life play out in pictures from afar :)
 
 I am a fourth-year undergraduate pursuing a Bachelors in Engineering Physics with a Minor in Mathematics at the [Indian Institute of Technology Hyderabad](https://physics.iith.ac.in/). My research interests lie in astrophysics and cosmology, where I have delved into topics such as stellar evolution, radioastronomy, galaxy formation and evolution, gravitational waves, transients, galaxy clusters and cosmology. <br>
 For the past three years I have been working on clusters and cosmology under the guidance of [Prof. Shantanu Desai, IIT Hyderabad](https://iith.ac.in/phy/shantanud/). My Bachelors Projects, which focused on galaxies in cosmological simulations and dark matter distribution in spirals were supervised by [Dr. Gauri Sharma](https://ingauris.github.io/gsharma/) at the University of Western Cape and [Prof. Paolo Salucci](https://www.sissa.it/ap/members.php?ID=134) at SISSA, Italy respectively. <br>
