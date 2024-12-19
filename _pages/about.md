@@ -5,6 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 ## I watch that pretty life play out in pictures from afar :)
 
 Hi! I am a fourth-year undergraduate pursuing a Bachelors in Engineering Physics with a Minor in Mathematics at the [Indian Institute of Technology Hyderabad](https://physics.iith.ac.in/). My research interests lie in astrophysics and cosmology, where I have delved into topics such as stellar evolution, radioastronomy, galaxy formation and evolution, gravitational waves, transients, galaxy clusters and cosmology. <br>
