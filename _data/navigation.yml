@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /cv/    
 
-  - title: "Personal"
-    url: /interests/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Contact"
     url: /contact/ 
